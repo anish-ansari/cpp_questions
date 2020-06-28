@@ -1,3 +1,3 @@
 # cpp_questions
 
-Usage of Accessor and Mutator functions in different scenarios.
+Usage of Accessor(Getter) and Mutator(Setter) functions in different scenarios.
